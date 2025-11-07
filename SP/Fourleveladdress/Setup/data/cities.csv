@@ -1,0 +1,12 @@
+value,title,country_id,region_id,district_id,label
+101,Sanand,IN,580,1,Sanand
+102,Viramgam,IN,580,1,Viramgam
+201,Navsari,IN,580,2,Navsari
+202,Ankleshwar,IN,580,2,Ankleshwar
+301,Alkapuri,IN,580,3,Alkapuri
+302,Ajwa Road,IN,580,3,Ajwa Road
+401,Visnagar,IN,580,4,Visnagar
+402,Unjha,IN,580,4,Unjha
+501,Siddhpur,IN,580,5,Siddhpur
+502,Kankrej,IN,580,5,Kankrej
+503,Sihori,IN,580,5,Sihori
